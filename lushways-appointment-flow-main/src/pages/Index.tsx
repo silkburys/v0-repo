@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import BookingModal from '../components/BookingModal';
 import { Button } from '../components/ui/button';

@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import LocationSelection from './booking/LocationSelection';
 import ServiceSelection from './booking/ServiceSelection';

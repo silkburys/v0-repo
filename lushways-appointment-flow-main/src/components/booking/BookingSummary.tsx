@@ -1,4 +1,3 @@
-
 import { Button } from '../ui/button';
 import { BookingItem } from '../../types/booking';
 import { BookingStep } from '../BookingModal';

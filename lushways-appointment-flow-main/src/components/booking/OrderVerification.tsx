@@ -1,4 +1,3 @@
-
 import { ArrowLeft } from 'lucide-react';
 import { Button } from '../ui/button';
 import { BookingItem, Customer } from '../../types/booking';

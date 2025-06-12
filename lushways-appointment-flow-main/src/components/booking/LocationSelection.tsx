@@ -1,4 +1,3 @@
-
 import { MapPin } from 'lucide-react';
 import { Button } from '../ui/button';
 import { Location } from '../../types/booking';
